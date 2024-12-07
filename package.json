@@ -1,0 +1,11 @@
+{
+  "name": "darkroom-lab",
+  "version": "1.0.0",
+  "description": "A web app for controlling Govee bulbs in darkroom printing.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
